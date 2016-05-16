@@ -1,0 +1,5 @@
+--extra-index-url https://update.synapse-wireless.com/pypi
+
+snapconnect == 3.5.1
+sphinx
+sphinx-rtd-theme
